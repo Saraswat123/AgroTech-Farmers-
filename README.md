@@ -30,8 +30,18 @@ Market Connectivity: AgroTech also provides a platform for farmers to connect wi
 
 By addressing the core challenges in agriculture, AgroTech empowers farmers with the tools they need to improve yield consistency, reduce risks, and adopt sustainable farming practices.
 
-![image](https://github.com/user-attachments/assets/9f3fc22b-9196-4c85-8730-b37eee5f730f)
+![image](https://github.com/user-attachments/assets/9f3fc22b-9196-4c85-8730-b37eee5f730f)..
+
+System Architect - 
+![image](https://github.com/user-attachments/assets/3b10d7c9-aa45-4ce3-b8f7-d1f9af1c2da7)
+
+![image](https://github.com/user-attachments/assets/72a6179d-3c0a-4834-ae8f-35a8b4a9007e)
+
+![image](https://github.com/user-attachments/assets/f7ae5a42-ed25-47a4-aa9a-94c7473f195b)
+
+Buisness Model-
+
+![image](https://github.com/user-attachments/assets/48bbd8bc-2b93-4576-b468-f6335cab42f2)
 
 
-
-
+Thankyou
